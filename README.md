@@ -1,3 +1,7 @@
+#Brainwave#
+
+Build and Deploy a Modern UI/UX Website with React & Tailwind CSS (from JavaScript Mastery Tutorial Youtube)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
