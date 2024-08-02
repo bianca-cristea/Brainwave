@@ -3,9 +3,9 @@
 Modern UI/UX Website with React & Tailwind CSS (from JavaScript Mastery Tutorial Youtube)
 
 How to run:
--clone the repository
--npm install
--run command `npm run dev`
+- clone the repository
+- npm install
+- run command `npm run dev`
 
 Pictures of the website:
 <img width="947" alt="Captură2" src="https://github.com/user-attachments/assets/6e0b072d-158c-4bcb-8b5e-674f2e78ae44">
